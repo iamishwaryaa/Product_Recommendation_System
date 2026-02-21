@@ -30,10 +30,10 @@ The models were tested on large-scale datasets containing:
 - Python
 
 **Libraries**
-- NumPy — numerical operations
-- Pandas — data manipulation and preprocessing
-- Matplotlib — visualization
-- Scikit-learn — machine learning models and algorithms
+- NumPy - numerical operations
+- Pandas - data manipulation and preprocessing
+- Matplotlib - visualization
+- Scikit-learn - machine learning models and algorithms
 
 **Machine Learning Techniques**
 - Truncated SVD
